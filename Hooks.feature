@@ -14,6 +14,10 @@ When I go to the Amazon Website
 And I enter valid username and valid password
 |ankarwar9@gmail.com|ankarwar9|
 And Cilck Signin
+And Cilck Signin
+And Cilck Signin
+And Cilck Signin
+
 
 
 
